@@ -11,4 +11,6 @@ This made the image way smaller and easier to work with. Servf should also not w
 
 In conclusion, this installable package is smaller than the full 300+ app version by design.
 
-Authors: $t@$h, r00r00, n3wm4n
+Authors: Notable contributors:
+
+$t@$h, r00r00, n3wm4n, Matzr3lla, m0nZSt3r, 0mg33, K!r!to
