@@ -13,4 +13,4 @@ In conclusion, this installable package is smaller than the full 300+ app versio
 
 Team:
 
-$t@$h, r00r00, n3wm4n, Matzr3lla, m0nZSt3r, 0mg33, K!r!to
+$t@$h, r00r00, n3wm4n, m0nZSt3r, Matzr3lla, 0mg33, K!r!to
