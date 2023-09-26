@@ -12,3 +12,9 @@ That command will verify installation was successful. Should pass most tests.
 
 Then can run salvum with:
 sudo ./salvum
+
+
+If you don't like that it runs as su, use this command to descalate:
+deprivilege
+
+But keep in mind that you wont be able to run many modules :]
