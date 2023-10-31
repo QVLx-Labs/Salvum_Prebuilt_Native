@@ -4,7 +4,7 @@ This is the package deployed for Appalachian State University to support interac
 
 Native Ubuntu 20 LTS installer. For cross-platform Salvum, see containerized
 
-Run this command to get started:
+With the tarball in the same directory as the install script, run this command to get started:
 ```
 sudo ./install_salvum.sh
 ```
