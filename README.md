@@ -35,8 +35,5 @@ Servf, Yara, and PXE functionality taken out of this along with the QVLx FCC db.
 This made the image way smaller and easier to work with. Servf should also not work as its been commented.
 
 In conclusion, this installable package is smaller than the full 300+ app version by design.
-```
-$t@$h r00r00 n3wm4n m0nZSt3r Matzr3lla 0mg33 k!r!t0
 
-Create a public hacker name for you and feel free to join us ya'll
-```
+$t@$h r00r00 n3wm4n m0nZSt3r Matzr3lla 0mg33 k!r!t0
