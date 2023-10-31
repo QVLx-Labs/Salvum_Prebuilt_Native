@@ -4,31 +4,17 @@ This is the package deployed for Appalachian State University to support interac
 
 Native Ubuntu 20 LTS installer. For cross-platform Salvum, see containerized
 
-To run execute these commands after you've got your Docker running with Desktop or what not:
+Run this command to get started:
 ```
-docker load < slm_community_docker.tar
-docker run -it qvlx_salvum-20.04:community
-```
-
-In order to get host networking capability and see other devices just like the 
-host would, use the following command:
-```
-docker run --network host -it qvlx_salvum-20.04:community
-```
-To mount a host directory through the container, use this command:
-```
-docker run -it -v <host_dir>:/home/usr qvlx_salvum-20.04:community
-```
-Note: host_dir is the full path to a host directory that the user wishes to mount.
-
-The mount makes host files available to the container, in the usr directory. Files 
-can easily be moved in and out of the Salvum environment and operated upon.
-Arguments can be combined to employ all the mentioned features like so:
-```
-docker run –-network host -it -v <host_dir>:/home/usr qvlx_salvum...
+sudo ./install_salvum.sh
 ```
 
-$t@$h here: I recommend containerized then if you want code contact me; it's alot of file exchange
+This will then unpack the tarball into an slm directory. Once finished, cd into the slm directory and run:
+```
+sudo ./salvum
+```
+
+Note: You don't have to run as superuser but keep in mind most apps won't function properly.
 
 Servf, Yara, and PXE functionality taken out of this along with the QVLx FCC db.
 
