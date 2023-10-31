@@ -9,7 +9,7 @@ With the tarball in the same directory as the install script, run this command t
 sudo ./install_salvum.sh
 ```
 
-This will then unpack the tarball into an slm directory. Once finished, cd into the slm directory and run:
+The script unpacks contents into an slm directory and set up the environment. When finished, cd into slm/ and run:
 ```
 sudo ./salvum
 ```
