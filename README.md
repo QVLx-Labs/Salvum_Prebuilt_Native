@@ -15,9 +15,9 @@ From the ~/salvum directory, execute the following command:
 ```
 sudo ./install_salvum.sh
 ```
-Installation will create an slm/ directory that will contain the salvum binary and everything needed. Inside slm/ you can then run:
+Installation will create an slm/ directory that will contain the salvum binary and everything needed.
 ```
-sudo ./salvum test
+cd slm/ && sudo ./salvum test
 ```
 That command will verify installation was successful. Should pass tests, feel free to create issues for any that don't.
 
